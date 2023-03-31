@@ -5,10 +5,10 @@ Basic number to words converter for Kata-Project
 Development was done with an test-driven approach
 unit_tests includes testcases for all number calculations
 
-#Run
+# Run
 To run the number converter just start the main.py file
 
-#Rules
+# Rules
 - Only use positive numbers
 - No decimals allowed e.g. NOT 999.99
 - Do not use thousands separators e.g. NOT 999,999
